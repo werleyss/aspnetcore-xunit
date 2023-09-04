@@ -1,0 +1,12 @@
+C:\Labs\FGV\src\FGV.Web\bin\Debug\net6.0\FGV.Web.deps.json
+C:\Labs\FGV\src\FGV.Web\bin\Debug\net6.0\FGV.Web.dll
+C:\Labs\FGV\src\FGV.Web\bin\Debug\net6.0\ref\FGV.Web.dll
+C:\Labs\FGV\src\FGV.Web\bin\Debug\net6.0\FGV.Web.pdb
+C:\Labs\FGV\src\FGV.Web\obj\Debug\net6.0\FGV.Web.csproj.AssemblyReference.cache
+C:\Labs\FGV\src\FGV.Web\obj\Debug\net6.0\FGV.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\FGV\src\FGV.Web\obj\Debug\net6.0\FGV.Web.AssemblyInfoInputs.cache
+C:\Labs\FGV\src\FGV.Web\obj\Debug\net6.0\FGV.Web.AssemblyInfo.cs
+C:\Labs\FGV\src\FGV.Web\obj\Debug\net6.0\FGV.Web.csproj.CoreCompileInputs.cache
+C:\Labs\FGV\src\FGV.Web\obj\Debug\net6.0\FGV.Web.dll
+C:\Labs\FGV\src\FGV.Web\obj\Debug\net6.0\ref\FGV.Web.dll
+C:\Labs\FGV\src\FGV.Web\obj\Debug\net6.0\FGV.Web.pdb
